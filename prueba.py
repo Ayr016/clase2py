@@ -1,1 +1,2 @@
-print("Este archivo fue creado directamente desde GitHub.")
+
+print("Ahora estoy en una rama llamada rama-prueba")
